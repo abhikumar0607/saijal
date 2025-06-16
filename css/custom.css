@@ -44,11 +44,12 @@ body {
 
 .banner-section {
     margin-top: 0px;
-    /* background-image: url(../images/about-banner.png); */
+    background-image: url(../images/back.jpg); */
     padding: 85px 0px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
+    padding:60px 0;
 }
 .slider__item img {
     width: 100%;
@@ -252,6 +253,7 @@ img.slide.logos {
 .lodedicatedgo img {
     width: 269px;
     height: 57px;
+    object-fit: contain;
 }
 .logo-section {
 	padding: 4px 0 0 0;
@@ -813,7 +815,7 @@ a.effect-underline {
 }
 
 a.effect-underline:hover {
-   color: #24f31d;
+   color: #c9f31d;
 }
 .menu .closebtn {
     position: absolute;
@@ -846,7 +848,7 @@ a.effect-underline:after {
     display: inline-block;
     height: 49px;
     width: 8%;
-    border-bottom: 4px solid #24f31d;
+    border-bottom: 4px solid #c9f31d;
     margin-top: 10px;
     opacity: 0;
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
@@ -1145,6 +1147,7 @@ a.effect-underline:hover:after {
     font-size: 17px;
     font-weight: 700;
     color: #fff;
+    text-align:left;
 }
 
 .skill-content h2 {
@@ -1210,6 +1213,7 @@ a.effect-underline:hover:after {
 
 .skill-content h5 {
     margin-top: 40px;
+    text-align:left;
 }
 .figma-content h5 {
     font-size: 14px;
