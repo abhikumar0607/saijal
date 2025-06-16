@@ -44,12 +44,12 @@ body {
 
 .banner-section {
     margin-top: 0px;
-    background-image: url(../images/back.jpg); */
+    background-image: url(../images/Frame4.jpg); */
     padding: 85px 0px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
-    padding:60px 0;
+    padding:60px 0 140px;
 }
 .slider__item img {
     width: 100%;
