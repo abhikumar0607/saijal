@@ -813,7 +813,7 @@ a.effect-underline {
 }
 
 a.effect-underline:hover {
-   color: #c9f31d;
+   color: #24f31d;
 }
 .menu .closebtn {
     position: absolute;
@@ -846,7 +846,7 @@ a.effect-underline:after {
     display: inline-block;
     height: 49px;
     width: 8%;
-    border-bottom: 4px solid #c9f31d;
+    border-bottom: 4px solid #24f31d;
     margin-top: 10px;
     opacity: 0;
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
@@ -1152,6 +1152,7 @@ a.effect-underline:hover:after {
     font-weight: 700;
     color: #fff;
     line-height: 60px;
+    text-align: left;
 }
 
 .skill-content p {
